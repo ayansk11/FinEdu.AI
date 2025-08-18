@@ -1,3 +1,3 @@
-![Alt text](images/img1.png)
-![Alt text](images/img2.png)
-![Alt text](images/img3.png)
+![Screenshot1](Images/img1.png)
+![Screenshot2](Images/img2.png)
+![Screenshot3](Images/img3.png)
