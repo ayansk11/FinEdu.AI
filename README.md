@@ -22,6 +22,9 @@ FinEdu.AI is an innovative AI-powered platform designed to democratize financial
 - **Pandas** - Data manipulation and analysis
 - **Kaggle Hub** - Dataset management
 - **Jupyter Notebook** - Development environment
+- **Meta Llama-2-7b-chat-hf** - Main language model (8-bit quantized)
+- **LlamaIndex** - For vector storage and retrieval
+- **Gradio** - For the web interface
 
 ## 📊 Dataset
 
@@ -146,6 +149,7 @@ We welcome contributions from the community! Here's how you can help:
 ## 📞 Contact
 
 **Ayan Shaikh** - [@ayansk11](https://github.com/ayansk11)
+
 LinkedIn - https://www.linkedin.com/in/ayansk11/
 
 Project Link: [https://github.com/ayansk11/FinEdu.AI](https://github.com/ayansk11/FinEdu.AI)
@@ -157,7 +161,7 @@ Project Link: [https://github.com/ayansk11/FinEdu.AI](https://github.com/ayansk1
 *"Empowering everyone with AI-driven financial knowledge"*
 
 
-
+<br>
 
 
 ![Screenshot1](Images/img1.png)
