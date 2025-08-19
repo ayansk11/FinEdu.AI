@@ -10,8 +10,6 @@ FinEdu.AI is an innovative AI-powered platform designed to democratize financial
 - **Comprehensive Financial Database**: Curated dataset of 80+ financial terms with definitions, significance, usage, and implications
 - **Personalized Learning**: Adaptive learning system that adjusts to user's knowledge level
 - **Real-time Financial Insights**: Get explanations for trending financial concepts and market terminology
-- **Multi-Modal Learning**: Support for text-based interactions and contextual explanations
-- **Smart Recommendations**: AI-driven suggestions for related financial concepts to explore
 
 ## 🛠️ Technology Stack
 
