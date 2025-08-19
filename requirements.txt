@@ -1,0 +1,17 @@
+kagglehub
+pandas
+torch
+pypdf
+transformers
+einops
+accelerate
+langchain
+bitsandbytes
+sentence-transformers
+llama-index
+llama-index-llms-huggingface
+llama-index-core
+llama-index-prompts
+langchain-community
+llama-index-embeddings-langchain
+gradio
