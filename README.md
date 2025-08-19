@@ -40,10 +40,16 @@ Dataset source: [Financial Terminologies on Kaggle](https://www.kaggle.com/datas
 ## 🚀 Getting Started
 
 ### Prerequisites
-
 ```bash
-pip install -r requirements.txt
+pip install torch transformers sentence-transformers pandas kagglehub jupyter
 ```
+
+**Run the Jupyter notebook**
+```bash
+jupyter notebook FinEduAI.ipynb
+```
+
+&nbsp;&nbsp;&nbsp; ### OR
 
 ### Installation
 
@@ -55,13 +61,17 @@ cd FinEdu.AI
 
 2. **Install dependencies**
 ```bash
-pip install torch transformers sentence-transformers pandas kagglehub jupyter
+pip install -r requirements.txt
 ```
 
-3. **Run the Jupyter notebook**
+3. **Run the Python File**
 ```bash
-jupyter notebook FinEduAI.ipynb
+python FinEduAI.py
 ```
+
+
+
+
 
 ### Usage
 
