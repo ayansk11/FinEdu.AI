@@ -49,7 +49,11 @@ pip install torch transformers sentence-transformers pandas kagglehub jupyter
 jupyter notebook FinEduAI.ipynb
 ```
 
-&nbsp;&nbsp;&nbsp; ### OR
+<br>
+
+### OR
+
+<br>
 
 ### Installation
 
